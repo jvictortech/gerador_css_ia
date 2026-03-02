@@ -7,7 +7,7 @@ A aplicação permite que o usuário descreva o estilo desejado e receba automat
 🌐 Acesse o Projeto Online
 
 🔗 Link da aplicação:
-👉 COLE_AQUI_O_LINK_DA_VERCEL
+👉 https://geradorcssia.vercel.app/
 
 🧠 Tecnologias Utilizadas
 
